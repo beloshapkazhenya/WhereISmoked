@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Where i smoked</string>
+    <string name="buttonMapTitle">Просмотреть где был</string>
+    <string name="buttonCheckTitle">Отметиться</string>
+</resources>
